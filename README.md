@@ -1,1 +1,1 @@
-# Aloka-Admin
+The System administrator's part of a four part system for a local channel center(Receptionist, Doctor, Lab/Pharmacy, System Admin)
